@@ -337,7 +337,7 @@ function renderSelectMapList(q="") {
             closeAllModals();
         });
 
-        const mapIconUrl = `/assets/img/map_icons/${m.mapName.replace(" ", "").toLowerCase()}.png`;
+        const mapIconUrl = `assets/img/map_icons/${m.mapName.replace(" ", "").toLowerCase()}.png`;
         imageExists(mapIconUrl).then(exists => {
             if(exists) li.style.setProperty("--map-icon", `url("${mapIconUrl}")`);
         });
