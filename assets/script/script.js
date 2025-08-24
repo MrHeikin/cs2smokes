@@ -1,4 +1,4 @@
-import MAPS from "/maps.json" with {type: "json"};
+import MAPS from "../../maps.json" with {type: "json"};
 
 function randomId() {
   return Math.random().toString(36).substring(2, 8);

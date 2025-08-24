@@ -2,13 +2,13 @@
     {
         "mapName": "Mirage",
         "title": "Instant Window Smokes",
-        "mapImage": "/assets/img/mirage/instant_window/spawns.jpg",
+        "mapImage": "assets/img/mirage/instant_window/spawns.jpg",
         "callouts": [
             {
                 "title": "Window smoke: spawn 1",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos 1296 32 -103.97;setang -28.97 -165.87 0",
-                "img": "/assets/img/mirage/instant_window/1.jpg",
+                "img": "assets/img/mirage/instant_window/1.jpg",
                 "marker": {
                     "text": "1",
                     "x": 69.5,
@@ -23,7 +23,7 @@
                 "title": "Window smoke: spawn 2",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos 1296 -352 -103.97;setang -42.31 -173.39 0",
-                "img": "/assets/img/mirage/instant_window/2.jpg",
+                "img": "assets/img/mirage/instant_window/2.jpg",
                 "marker": {
                     "text": "2",
                     "x": 28.8656,
@@ -38,7 +38,7 @@
                 "title": "Window smoke: spawn 3",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos 1216 -16 -101.78;setang -44.25 -166.18 0",
-                "img": "/assets/img/mirage/instant_window/3.jpg",
+                "img": "assets/img/mirage/instant_window/3.jpg",
                 "marker": {
                     "text": "3",
                     "x": 64.1729,
@@ -53,7 +53,7 @@
                 "title": "Window smoke: spawn 4",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos 1216 -115 -101.78;setang -44.09 -167.60 0s",
-                "img": "/assets/img/mirage/instant_window/4.jpg",
+                "img": "assets/img/mirage/instant_window/4.jpg",
                 "marker": {
                     "text": "4",
                     "x": 54.2674,
@@ -68,7 +68,7 @@
                 "title": "Window smoke: spawn 5",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos 1216 -211 -100.84;setang -46.06 -170.3 0",
-                "img": "/assets/img/mirage/instant_window/5.jpg",
+                "img": "assets/img/mirage/instant_window/5.jpg",
                 "marker": {
                     "text": "5",
                     "x": 43.815,
@@ -84,13 +84,13 @@
     {
         "mapName": "Ancient",
         "title": "Instant Elbow Smokes",
-        "mapImage": "/assets/img/ancient/instant_elbow/spawns.jpg",
+        "mapImage": "assets/img/ancient/instant_elbow/spawns.jpg",
         "callouts": [
             {
                 "title": "Elbow smoke: spawn 1",
                 "type": "Walk + Jumpthrow",
                 "lineupCmd": "setpos -192 1696 88.79;setang -29.93 -108.77 0",
-                "img": "/assets/img/ancient/instant_elbow/1.jpg",
+                "img": "assets/img/ancient/instant_elbow/1.jpg",
                 "marker": {
                     "text": "1",
                     "x": 29.06,
@@ -105,7 +105,7 @@
                 "title": "Elbow smoke: spawn 2",
                 "type": "Walk + Jumpthrow",
                 "lineupCmd": "setpos -256 1728 88.99;setang -29.14 -106.96 0",
-                "img": "/assets/img/ancient/instant_elbow/2.jpg",
+                "img": "assets/img/ancient/instant_elbow/2.jpg",
                 "marker": {
                     "text": "2",
                     "x": 36.9,
@@ -120,7 +120,7 @@
                 "title": "Elbow smoke: spawn 3",
                 "type": "Walk + Jumpthrow",
                 "lineupCmd": "setpos -416 1664 87.59;setang -32.14 -104.19 0",
-                "img": "/assets/img/ancient/instant_elbow/3.jpg",
+                "img": "assets/img/ancient/instant_elbow/3.jpg",
                 "marker": {
                     "text": "3",
                     "x": 49.8827,
@@ -135,7 +135,7 @@
                 "title": "Elbow smoke: spawn 4",
                 "type": "Walk + Jumpthrow",
                 "lineupCmd": "setpos -448 1728 93.40;setang -29.00 -102.80 0",
-                "img": "/assets/img/ancient/instant_elbow/4.jpg",
+                "img": "assets/img/ancient/instant_elbow/4.jpg",
                 "marker": {
                     "text": "4",
                     "x": 62.8455,
@@ -150,7 +150,7 @@
                 "title": "Elbow smoke: spawn 5",
                 "type": "Walk + Jumpthrow",
                 "lineupCmd": "setpos -512 1696 88.84;setang -30.82 -101.88 0",
-                "img": "/assets/img/ancient/instant_elbow/5.jpg",
+                "img": "assets/img/ancient/instant_elbow/5.jpg",
                 "marker": {
                     "text": "5",
                     "x": 71.0573,
@@ -166,14 +166,14 @@
     {
         "mapName": "Ancient",
         "title": "Instant Red Room Smokes",
-        "mapImage": "/assets/img/ancient/instant_red_room/spawns.jpg",
+        "mapImage": "assets/img/ancient/instant_red_room/spawns.jpg",
         "callouts": [
             {
                 "title": "Instant Red Room Smoke: Spawn 1",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos -520 -2224 -99.25;setang -36.50 89.27 0",
-                "img": "/assets/img/ancient/instant_red_room/1.jpg",
-                "altImg": "/assets/img/ancient/instant_red_room/1.gif",
+                "img": "assets/img/ancient/instant_red_room/1.jpg",
+                "altImg": "assets/img/ancient/instant_red_room/1.gif",
                 "marker": {
                     "text": "1",
                     "x": 39.9113,
@@ -188,7 +188,7 @@
                 "title": "Instant Red Room Smoke: Spawn 2",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos -392 -2224 -99.25;setang -27.52 92.60 0",
-                "img": "/assets/img/ancient/instant_red_room/2.jpg",
+                "img": "assets/img/ancient/instant_red_room/2.jpg",
                 "marker": {
                     "text": "2",
                     "x": 59.0916,
@@ -203,7 +203,7 @@
                 "title": "Instant Red Room Smoke: Spawn 3",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos -584 -2288 -98.77;setang -34.12 88.31 0",
-                "img": "/assets/img/ancient/instant_red_room/3.jpg",
+                "img": "assets/img/ancient/instant_red_room/3.jpg",
                 "marker": {
                     "text": "3",
                     "x": 23.957,
@@ -218,8 +218,8 @@
                 "title": "Instant Red Room Smoke: Spawn 4",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos -456 -2288 -99.25;setang -30.39 91.98 0",
-                "img": "/assets/img/ancient/instant_red_room/4.jpg",
-                "altImg": "/assets/img/ancient/instant_red_room/4.gif",
+                "img": "assets/img/ancient/instant_red_room/4.jpg",
+                "altImg": "assets/img/ancient/instant_red_room/4.gif",
                 "marker": {
                     "text": "4",
                     "x": 49.0029,
@@ -234,7 +234,7 @@
                 "title": "Instant Red Room Smoke: Spawn 5",
                 "type": "W-Jumpthrow",
                 "lineupCmd": "setpos -328 -2288 -99.25;setang -31.58 93.96 0",
-                "img": "/assets/img/ancient/instant_red_room/5.jpg",
+                "img": "assets/img/ancient/instant_red_room/5.jpg",
                 "marker": {
                     "text": "5",
                     "x": 73.6968,
